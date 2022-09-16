@@ -1,13 +1,11 @@
 #include "main.h"
 
 /**
- * main - A program that print if integer is poitive , zero or negative
- *
- * Return: Always true(0)
+ * main - test function that print if integer is poitive or negative
+ * Return: 0
  */
 
 int main(void)
-
 {
 	int i;
 
