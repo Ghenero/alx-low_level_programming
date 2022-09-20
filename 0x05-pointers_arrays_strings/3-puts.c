@@ -18,6 +18,6 @@ void _puts(char *str)
 	{
 		putchar(*(str + i));
 		i++;
-		putchar(10);
 	}
+	putchar(10);
 }
