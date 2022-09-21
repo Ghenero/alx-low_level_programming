@@ -18,6 +18,6 @@ void puts2(char *str)
 			putchar(*(str + x));
 		}
 		x++;
-		putchar('\n');
 	}
+	putchar('\n');
 }
