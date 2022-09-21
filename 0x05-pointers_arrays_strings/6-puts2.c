@@ -20,5 +20,4 @@ void puts2(char *str)
 		}
 		putchar(\n);
 	}
-	return (0);
 }
